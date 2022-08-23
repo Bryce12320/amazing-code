@@ -1,2 +1,2 @@
 # amazing-code
-My first respitory
+My first repository
